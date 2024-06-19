@@ -4,7 +4,7 @@
 import string
 
 # initializing string 
-test_string = "Geeksforgeeks, is best @# Computer Science Portal.!!!"
+test_string = "Hello @ World !! "
 
 # printing original string
 print ("The original string is : " + test_string)
